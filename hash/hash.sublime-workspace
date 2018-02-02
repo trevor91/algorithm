@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inc",
+				"include"
+			],
+			[
+				"TAB",
+				"TableSize"
+			],
+			[
+				"Va",
+				"Value"
+			],
+			[
+				"Value",
+				"ValueType"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"my",
+				"myKeyword"
+			],
+			[
+				"inser",
+				"insertNewsList"
+			],
+			[
+				"news",
+				"newsUrl"
+			],
+			[
+				"next",
+				"nextUrl"
+			],
+			[
+				"get",
+				"getUrl"
+			],
+			[
+				"selec",
+				"selectSQL"
+			],
+			[
+				"api",
+				"api_json"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"except",
+				"Exception"
+			],
+			[
+				"body",
+				"bodyPath"
+			],
+			[
+				"_api",
+				"_apiUser_id"
+			],
+			[
+				"sele",
+				"selectSQL"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"ins",
+				"insertSQL"
+			],
+			[
+				"inspe",
+				"inspectorAPI"
+			],
+			[
+				"json",
+				"jsonify"
+			],
+			[
+				"Pa",
+				"PhantomJS"
+			],
+			[
+				"que",
+				"Queue2"
+			],
+			[
+				"osT",
+				"OSTimeDly"
+			],
+			[
+				"OSM",
+				"OSMboxPost"
+			],
+			[
+				"random",
+				"randomTask"
+			],
+			[
+				"print",
+				"print_str"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/gcc.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/gcc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c++14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c++14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/c++14.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/gcc.sublime-build",
+					""
+				],
+				[
+					"Packages/User/gcc.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/gcc.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"build with ",
+				"Build With: gcc"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"ython",
+				"Build With: Python"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				"PYTHON",
+				"Build With: Python"
+			],
+			[
+				"py",
+				"Build With: Python"
+			],
+			[
+				"pyt",
+				"Build With: Python"
+			],
+			[
+				"cacn\t",
+				"Build: Cancel"
+			],
+			[
+				"cancle",
+				"Build: Cancel"
+			],
+			[
+				"buil",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"build",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+			"tahNode",
+			"HT",
+			"dir",
+			"cd",
+			"dir",
+			"ll",
+			"dir",
+			"query%(1, \"name\", \"caption\", \"??\", \"qqq\", \"aaa\", \"zzzz\")",
+			"query = \"INSERT INTO myboard.api (id, user_id, name, caption, description, type, url, api_json, created_time) VALUES (null, %s, %s, %s, %s, %s, %s, %s, now())\"",
+			"query = \"INSERT INTO myboard.api (id, user_id, name, caption, description, type, url, api_json, created_time) VALUES \\",
+			"type(test)",
+			"test",
+			"test = {'type': 'static', 'segments': [{'selector': 'a > span:nth-child(1)', 'name': 'rank'}, {'selector': 'a > span:nth-child(2)', 'name': 'name'}], 'body_selector': 'html > body > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div > ul > li', 'url': 'http://www.naver.com'}",
+			"test",
+			"test = \"{\\\"qwe\\\" : \\\"q\\\"}\"",
+			"query",
+			"query = \"INSERT INTO myboard.api (id, type, selector_json) VALUES (null, %s,%s)\"%(test, test2)",
+			"query = \"INSERT INTO myboard.api (id, type, selector_json) VALUES (null, %s,%s)\"%(_apiType, jsondata)",
+			"test2 = \"ete\"",
+			"test = \"qwe\"",
+			"api.bat",
+			"python",
+			"python myboard_server.py",
+			"!dir",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Trevor Lee/Documents/workspace/algorithm/hash/SimpleHashTable.h",
+		"/C/Users/Trevor Lee/Documents/workspace/algorithm/hash/SimpleHashTable.c",
+		"/C/Users/Trevor Lee/AppData/Roaming/Sublime Text 3/Packages/User/gcc.sublime-build",
+		"/C/Users/Trevor Lee/Documents/workspace/algorithm/hash/main.c",
+		"/C/Users/Trevor Lee/Documents/workspace/algorithm/hash/hash.sublime-project",
+		"/C/crossdev/src/mingw-w64-v3-git/mingw-w64-crt/crt/crt0_c.c",
+		"/C/Users/Trevor Lee/AppData/Roaming/Sublime Text 3/Packages/User/c(multi).sublime-build",
+		"/C/Users/Trevor Lee/Documents/workspace/algorithm/1463.cpp",
+		"/C/Users/Trevor Lee/AppData/Roaming/Sublime Text 3/Packages/User/c++14.sublime-build",
+		"/C/Users/Trevor Lee/Documents/workspace/algorithm/LinkedList/LinkedList.h",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/main5.py",
+		"/C/Users/Trevor Lee/Documents/workspace/algorithm/input.txt",
+		"/C/Users/Trevor Lee/Documents/workspace/algorithm/fibonacci.py",
+		"/C/Users/Trevor Lee/Documents/workspace/cpp/0916/main.cpp",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/tot.py",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/seqDate.R",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/main4.py",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/main3.py",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/main2.py",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/main.py",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/Keyword.py",
+		"/C/Users/Trevor Lee/Documents/workspace/pycharm/tobigs/Tobigs-project/visualize.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/main5.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/main3.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/visualize.py",
+		"/C/Users/Trevor Lee/Desktop/재석.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/tot.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/main4.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/Keyword.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/tot/visualize.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/main2.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/main_pnas.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/alltitles.txt",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobigs-project/dict.txt",
+		"/C/Users/Trevor Lee/Downloads/topics_over_time-master/src/main_pnas.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobig-s-8th-project (git)/main.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/crawRank.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/Keyword.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/CheckTheDateOfTheQuery.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/main.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/crawl.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobig-s-8th-project (git)/Keyword.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobig-s-8th-project/main.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobig-s-8th-project/Keyword.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobig-s-8th-project/keyword_pro.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/test.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobig-s-8th-project/crawl.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/naverNews.py",
+		"/C/Users/Trevor Lee/Documents/workspace/Tobig-s-8th-project/naverNews.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/0721-0801.txt",
+		"/C/Users/Trevor Lee/Documents/2017-2/01.오토마타/실습/codes/codes/Homework/171130_CNN.py",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/inspector server/inspector.py",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/inspectorAPI.py",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/myboard_server.py",
+		"/C/Users/Trevor Lee/Documents/workspace/TCPIP_Src/Chapter18 소스코드/chat_serv.c",
+		"/C/Users/Trevor Lee/Documents/workspace/TCPIP_Src/Chapter18 소스코드/chat_clnt.c",
+		"/C/Users/Trevor Lee/Documents/workspace/clone/tutorial/sequence-to-sequence/tool.py",
+		"/C/Users/Trevor Lee/Documents/workspace/clone/tutorial/sequence-to-sequence/news_seq2seq.py",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/inspectorAPI.bat",
+		"/C/Users/Trevor Lee/Desktop/temp.py",
+		"/C/Users/Trevor Lee/Documents/myboard-server/myboard_server.py",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/myboardDBsec.cfg",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/myboardDB.cfg",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/myboard.bat",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/inspector.bat",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/utilSQL.py",
+		"/C/Users/Trevor Lee/Documents/workspace/tobigs 8th project/crawRank.txt",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/API.py",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/googleLogin.py",
+		"/C/Users/Trevor Lee/Downloads/etc/TCPIP_Src/Chapter10 소스코드/echo_mpserv.c",
+		"/C/Users/Trevor Lee/Downloads/etc/TCPIP_Src/Chapter10 소스코드/echo_client.c",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/index.py",
+		"/C/Users/Trevor Lee/Documents/2017-2/03.임베디드/실습/5주차/12121537_이제형_homework5/EX1.c",
+		"/C/Users/Trevor Lee/Documents/2017-2/03.임베디드/실습/5주차/12121537_이제형_homework5/12121537_이제형.docx",
+		"/C/SOFTWARE/uCOS-II/EX1_x86L/BC45/SOURCE/EX1(mailbox,msgQ).c",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/sele.py",
+		"/C/Users/Trevor Lee/Desktop/capstone sample.py",
+		"/C/Users/Trevor Lee/Desktop/server.c",
+		"/C/Users/Trevor Lee/Documents/workspace/capstone/myboard-server/api.py",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector(before)/flask/server/api.py",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/api.py",
+		"/C/SOFTWARE/uCOS-II/EX1_x86L/BC45/SOURCE/EX1.c",
+		"/C/Users/Trevor Lee/Downloads/TCPIP_Src/Chapter4 소스코드/echo_server.c",
+		"/C/Users/Trevor Lee/Downloads/TCPIP_Src/Chapter4 소스코드/echo_server_win.c",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/index.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/googleLogin.py",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/main.py",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/gooLogin.py",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/template.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/typography.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/upgrade.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/user.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/table.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/notifications.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/maps.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/icons.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/04.캡스톤/myboard-inspector/flask/server/templates/dashboard.html",
+		"/C/Users/Trevor Lee/Documents/2017-2/03.임베디드/실습/5주차/ex1.c",
+		"/C/Users/Trevor Lee/Documents/workspace/python/flask/server/templates/index.html",
+		"/C/Users/Trevor Lee/Documents/workspace/python/flask/server/templates/dashboard.html",
+		"/C/Users/Trevor Lee/Documents/workspace/python/flask/server/main.py",
+		"/C/Users/Trevor Lee/Documents/workspace/python/file_io.py",
+		"/C/Users/Trevor Lee/Documents/workspace/python/file.txt",
+		"/C/Users/Trevor Lee/Documents/2017-2/01.오토마타/실습/4주차/gugudan.txt",
+		"/C/Users/Trevor Lee/Documents/workspace/python/proxy.py",
+		"/C/Users/Trevor Lee/Documents/workspace/cpp/0916/dynamicArrUsingFunc",
+		"/C/Users/Trevor Lee/Documents/workspace/cpp/0916/mallocArray",
+		"/C/Users/Trevor Lee/Documents/2017-2/01.오토마타/실습/2주차/01.py",
+		"/C/Users/Trevor Lee/Documents/workspace/test.js",
+		"/C/Users/Trevor Lee/Downloads/2017-2/01.오토마타/실습/2주차/01.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 195.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"”",
+			"“",
+			"ㆍ",
+			"’",
+			"‘",
+			"”",
+			"“",
+			"num_topics",
+			"VisualizeTopics",
+			"href",
+			"herf",
+			"href",
+			"fileinput",
+			":/",
+			"set_keyList",
+			"keyListFileName",
+			"time",
+			"select",
+			"sql",
+			"request",
+			"selectNewsListUseqUery",
+			"newsCrawlingUseQuery",
+			"newsCrawlingUseQuery\n",
+			"set_keyList",
+			"set_rst",
+			"rstSaveFileName",
+			"period",
+			"    ",
+			"getNewsUrlList",
+			"getnewsurlList",
+			"getnesurlList",
+			"form3",
+			"insertNews",
+			"form2",
+			"selectNewsList",
+			"getNewsUrlList",
+			"JustQuery",
+			"selectNewsList",
+			"insert",
+			"getResource",
+			"insertNewsList",
+			"getResource",
+			"newsCrawling",
+			"selectNewsList",
+			"setDBToNewsUrl",
+			"selectKeywordPeriod",
+			"insertNews",
+			"self.news",
+			"insertNewsList",
+			"insertNews",
+			"cursors",
+			"content",
+			"getNewsInfo",
+			"re(",
+			"re",
+			"self.",
+			"app",
+			"newsUrl",
+			"getNewsInfo",
+			"getResource",
+			"newsCrawling",
+			"self.mykeyword",
+			"query",
+			"end",
+			"start",
+			"newsUrl",
+			"prigg",
+			"html = response.text",
+			"getNewscont",
+			"print",
+			"passAuth",
+			"====",
+			"login",
+			"auth_uri",
+			"======",
+			"inspect",
+			"user",
+			"select",
+			"print",
+			"config",
+			"%1",
+			"icon",
+			"inspector",
+			"inspectorAPI",
+			"insertSQL",
+			"seq2seq",
+			".text",
+			"inspectorAPI",
+			"inspects",
+			"inspectorAPI",
+			"select"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			",",
+			"'",
+			"",
+			"fileName",
+			"\t",
+			"UseQuery",
+			"self.myKeyword",
+			"self.end",
+			"self.start"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.511711125569,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 272.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/gcc.sublime-build",
+	"project": "hash.sublime-project",
+	"replace":
+	{
+		"height": 65.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
