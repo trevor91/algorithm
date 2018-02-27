@@ -1,4 +1,3 @@
-# 0~500,000
 import sys
 read = lambda: sys.stdin.readline().strip()
 
