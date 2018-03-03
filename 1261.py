@@ -5,9 +5,6 @@ from heapq import heappush, heappop
 read = lambda: sys.stdin.readline()
 conv = lambda x, y: m*x+y
 
-def go(x,y):
-	idx = conv(x,y)
-
 if __name__ == '__main__':
 	m,n = map(int, read().split())
 	mat = array('b',[])
