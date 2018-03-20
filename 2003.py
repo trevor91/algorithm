@@ -1,6 +1,6 @@
 import sys
 from array import array
-read = lambda: sys.stdin.readline().strip()
+read = lambda: sys.stdin.readline()
 
 if __name__ == '__main__':
 	n,m = read().split()
@@ -11,18 +11,18 @@ if __name__ == '__main__':
 	arr = array('l', arr)
 
 	cnt = 0
-	s, l, r = 0,0,0 #sum, left, right
-	while l < n and r < n:
+	s, l, r = arr[0],0,0 #sum, left, right
+	while l!=n or r!=n:
 		if s > m:
 			s -= arr[l]
 			l += 1
 		elif s < m:
-			s += arr[r]
 			r += 1
+			if r == n:break
+			s += arr[r]
 		else:
-			cnt+=1
-			s -= arr[l]
-			l += 1
-	if s == m:
-		cnt += 1
+			cnt += 1
+			r += 1
+			if r == n:break
+			s += arr[r]
 	print(cnt)
