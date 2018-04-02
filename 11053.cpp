@@ -20,6 +20,11 @@ int main()
 {
 	int input;
 	scanf("%d",&input);
+	if(input==1)
+	{
+		printf("%d\n",1);
+		return 0;
+	}
 	input += 1;
 	vector<int> v(input);
 	for(int i = 1; i<input; i++)
