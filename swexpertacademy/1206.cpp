@@ -1,3 +1,5 @@
+//https://www.swexpertacademy.com/main/code/problem/problemDetail.do
+
 #include <stdio.h>
 
 int a[1000];
