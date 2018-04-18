@@ -4,9 +4,37 @@
 #include <set>
 using namespace std;
 
+// set<int> s;
+// int visited[4][4][7];
 int arr[4][4];
 int move_x[4] = {0,0,1,-1};
 int move_y[4] = {1,-1,0,0};
+
+// void printArr()
+// {
+// 	for(int i=0; i<4; i++)
+// 	{
+// 		for(int j=0; j<4; j++)
+// 			printf("%d ", arr[i][j]);
+// 		printf("\n");
+// 	}
+// }
+
+// int go(int param[], int y, int x, int cnt)
+// {
+// 	if(y<0 || x<0 || y>3 || x>3) return 0;
+// 	// if(visited[y][x][cnt]) return 0;
+// 	if(cnt == 0)
+// 	{
+// 		// printf("%d %d %d %d %d %d %d\n", param[6], param[5], param[4], param[3], param[2], param[1], param[0]);
+// 		s.insert(param[6]*1000000 + param[5]*100000 + param[4]*10000 + param[3]*1000 + param[2]*100 + param[1]*10 + param[0]);
+// 		return 0;
+// 	}
+// 	param[cnt-1] = arr[y][x];
+// 	// visited[y][x][cnt] = 1;
+// 	for(int i=0; i<4; i++)
+// 		go(param, y+move_y[i], x+move_x[i], cnt-1);
+// }
 
 int main()
 {
@@ -27,7 +55,22 @@ int main()
 			}
 		}
 
-		
+		/*set visited*/
+		// for(int i=0; i<4; i++)
+		// 	for(int j=0; j<4; j++)
+		// 		for(int k=0; k<7; k++)
+		// 			visited[i][j][k] = 0;
+
+		/*recursive*/
+		// int temp[7] = {0,};
+		// for(int row = 0; row<4; row++)
+		// {
+		// 	for(int col = 0; col<4; col++)
+		// 	{
+		// 		go(temp,row,col,7);
+		// 	}
+		// }
+
 		/*dynamic*/
 		for(int cnt=5; cnt>=0; cnt--)
 		{
