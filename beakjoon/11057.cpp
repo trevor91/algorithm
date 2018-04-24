@@ -22,7 +22,7 @@ int main()
 				{
 					memo[i][k] += memo[i-1][j];
 					memo[i][k] %= 10007;
-				}	
+				}
 			}
 		}
 	}
