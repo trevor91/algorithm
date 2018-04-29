@@ -1,3 +1,10 @@
+/*
+3
+7 7
+7 8
+8 8
+*/
+
 #include <stdio.h>
 #include <vector>
 #include <algorithm>
