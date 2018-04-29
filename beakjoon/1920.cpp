@@ -11,11 +11,12 @@ def binarySearch(alist, item):
 		if alist[mid] == item:
 			found = True
 		else:
-			if item< alist[mid]:
+			if item<alist[mid]:
 				last = mid-1
 			else:
 				first = mid+1
 	return found
+
 if __name__ == '__main__':
 	n = int(r().strip())
 	arr = [int(x) for x in r().split()]
