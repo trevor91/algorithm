@@ -8,7 +8,7 @@ int main()
 	for(int i=0; i<n; i++)
 	{
 		scanf("%d", &temp);
-		num[temp+10000000]++;	
+		num[temp+10000000]++;
 	}
 	scanf("%d", &n);
 	for(int i=0; i<n; i++)
