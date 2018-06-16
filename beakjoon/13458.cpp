@@ -14,9 +14,12 @@ int main()
 	{
 		a[i] -= b;
 		cnt++;
-		cnt += a[i] / c;
-		if(a[i] % c > 0)
-			cnt++;
+		if(a[i]>0)
+		{
+			cnt += a[i] / c;
+			if(a[i] % c > 0)
+				cnt++;
+		}
 	}
 	printf("%lld\n", cnt);
 	return 0;
