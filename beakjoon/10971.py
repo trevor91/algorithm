@@ -25,23 +25,24 @@ if __name__ == '__main__':
 		mat.append(temp)
 	
 	path = [x for x in range(0,n)]
-	rst = 10000000
+	rst = float('inf')
 	loop = 1
 	for i in range(2,n):
 		loop *= i
 	for _ in range(loop):
 		cost = 0
-		for i in range(1,n):
-			start = path[i-1]
-			end = path[i]
-			temp = mat[start][end]
-			if temp == 0:
-				cost += 99999999
-				break
-			else:
-				cost += temp
-		cost = cost + mat[path[-1]][path[0]]
-		if cost < rst:
-			rst = cost
+		if mat[path[-1]][path[0]] != 0:
+			for i in range(1,n):
+				start = path[i-1]
+				end = path[i]
+				temp = mat[start][end]
+				if temp == 0:
+					cost += float('inf')
+					break
+				else:
+					cost += temp
+			cost += mat[path[-1]][path[0]]
+			if cost < rst:
+				rst = cost
 		path = next_perm(path)
 	print(rst)
