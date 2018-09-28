@@ -25,6 +25,6 @@ if __name__ == '__main__':
     for start in range(N):
         if ans == 1:
             break
-        visited = [False]*N
+        visited = [False for _ in range(N)]
         dfs(start, 0)
     print(ans)
