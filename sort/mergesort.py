@@ -7,20 +7,20 @@ def merge(a):
     left = merge(a[:center])
     right = merge(a[center:])
 
-    i = j = 0
-    ret = []
+    k = i = j = 0
     while i<len(left) and j<len(right):
         if left[i] < right[j]:
-            ret.append(left[i])
+            a[k] = left[i]
             i+=1
         else:
-            ret.append(right[j])
+            a[k] = right[j]
             j+=1
-    ret += left[i:] + right[j:]
-    return ret
+        k+=1
+    a = a[:k]+left[i:]+right[j:]
+    return a
 
 if __name__ == '__main__':
-    a = list(range(5))
+    a = list(range(20))
     random.shuffle(a)
     print(a)
     print(merge(a))
